@@ -10,7 +10,7 @@
 <li><strong>Mercados regionais:</strong> A distribuição geográfica das vendas.</li>
 </ul>
 <h2 id="-dashboard-">📊 Dashboard</h2>
-<p>Você pode visualizar o dashboard interativo <a href="COLE_O_LINK_DO_SEU_DASHBOARD_AQUI">aqui</a>.</p>
+<p>Você pode visualizar o dashboard interativo <a href="https://app.powerbi.com/reportEmbed?reportId=cf803db6-dc47-4919-a292-b0a40b7f7cb7&autoAuth=true&ctid=f310b526-e195-4805-a55e-67e28f2fefdb">aqui</a>.</p>
 <p><img src="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/caminho/para/sua/imagem_dashboard.png?raw=true" alt="Dashboard de Vendas Globais - Jogos PS4"></p>
 <p><em>(Sugestão: Substitua a imagem por um GIF curto ou link para o dashboard publicado, se preferir não usar a imagem estática.)</em></p>
 <h2 id="-insights-chave-">🔍 Insights Chave</h2>
