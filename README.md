@@ -11,6 +11,7 @@
 </ul>
 <h2 id="-dashboard-">📊 Dashboard</h2>
 <p>Você pode visualizar o dashboard interativo <a href="https://app.powerbi.com/reportEmbed?reportId=cf803db6-dc47-4919-a292-b0a40b7f7cb7&autoAuth=true&ctid=f310b526-e195-4805-a55e-67e28f2fefdb">aqui</a>.</p>
+<p><img src="[https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/caminho/para/sua/imagem_dashboard.png?raw=true" alt="Dashboard de Vendas Globais - Jogos PS4](https://github.com/marcelo-carv/Panorama-de-Vendas-Globais-Jogos-PS4/blob/main/Dashboard_PS4.png?raw=true)"></p>
 <h2 id="-insights-chave-">🔍 Insights Chave</h2>
 <p>Alguns dos principais insights extraídos deste dashboard incluem:</p>
 <ul>
